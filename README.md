@@ -4,7 +4,7 @@
 ## links
 
 <p align="center">
-  <a href="https://ruxia-tjy.github.io"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="http://blog.jiayublog.cn"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:ruxia-tjy@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/ruxia37"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.facebook.com/profile.php?id=100073721817275"><img src="https://img.icons8.com/color/96/000000/facebook.png" alt="facebook"/></a>
