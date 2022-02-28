@@ -9,7 +9,7 @@
         "aboutme":"自我介绍"
     },
     "avatar": {
-      "src": "https://cdn.jsdelivr.net/gh/ruxia-TJY/BlogUse@latest/logo/logo.png",
+      "src": "https://cdn.jsdelivr.net/gh/ruxia-TJY/BlogUse@latest/myself/IMG_20220228.jpg",
       "hidden": false
     },
     "profile": {
@@ -47,35 +47,35 @@
         "work_desc": "1.担任计算机社社长"
       },
       {
-        "company_name": "编程中国python版主",
+        "company_name": "编程中国Python版主",
         "department_name": "",
         "work_time": ["2020", null],
-        "work_desc": "担任编程中国论坛python板块版主"
+        "work_desc": "担任编程中国论坛Python板块版主"
       }
     ],
     "skillList": [
       {
-        "skill_name": "Python / PySide6",
-        "skill_desc": "熟悉基于PySide6 GUI库的python开发",
-        "skill_level": 89
+        "skill_name": "Python",
+        "skill_desc": "熟悉PySide6/PyQt5的GUI库和sqlalchemy的ORM库",
+        "skill_level": 100
       },
       {
         "skill_name": "51单片机/ESP8266/Arduino",
         "skill_desc": "熟悉51单片机和ESP8266的硬件开发",
-        "skill_level": 90
+        "skill_level": 100
       },
       {
         "skill_name": "AD/立创EDA",
         "skill_desc": "熟悉电路PCB设计",
-        "skill_level": 85
+        "skill_level": 100
       }
     ],
     "projectList": [
     {
         "project_name": "每日医诊",
-        "project_role": "参与者",
+        "project_role": "成员",
         "project_time": "2020.07 - 2020.09",
-        "project_desc": "挑战杯项目",
+        "project_desc": "大学挑战杯和互联网+项目",
         "project_content": "logo设计以及技术背景部分编写"
       },
       {
@@ -89,13 +89,13 @@
         "project_name": "to-Screen",
         "project_role": "作者",
         "project_time": "2021.08 - 至今",
-        "project_desc": "python对图片/视频进行阈值分割，通过串口传输至硬件。开始使用PyQt5开发GUI，后转至PySide6，开源链接：https://gitee.com/ruxia-tjy/to-screen",
+        "project_desc": "Python+opencv对图片/视频进行阈值分割，通过串口传输至硬件。开始使用PyQt5开发GUI，后转至PySide6，开源链接：https://gitee.com/ruxia-tjy/to-screen",
         "project_content": "GUI设计、软件开发、图像处理、串口传输"
       }
       
     ],
     "workList": [],
     "aboutme": {
-      "aboutme_desc": "喜好硬件/软件开发并在不断学习中\n"
+      "aboutme_desc": "喜好硬件/软件开发并在不断学习中,喜欢Python/C\n"
     }
   }
