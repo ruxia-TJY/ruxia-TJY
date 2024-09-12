@@ -5,7 +5,7 @@
 ## links
 
 - bilibili : [https://space.bilibili.com/472663791](https://space.bilibili.com/472663791)
-- email : [ruxia-tjy@gmail.com](mailto:ruxia-tjy@gmail.com)
+- email : [ruxia-tjy@gmail.com](mailto:ruxia-tjy@qq.com)
 - blog : [https://blog.jiayublog.cn](https://blog.jiayublog.cn)
 
 ## Stats
