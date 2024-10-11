@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @ruxia-TJY
-
+ 
+* Hope for a job * 
+my online resume: [https://resume.jiayublog.cn](https://resume.jiayublog.cn)
 
 
 ## links
